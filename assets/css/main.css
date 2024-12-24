@@ -22,7 +22,7 @@
 /* Colors */
 :root {
     --color-default: #364d59;
-    --color-primary: #feb900;
+    --color-primary: #00539cff;
     --color-secondary: #52565e;
 }
 
@@ -2724,12 +2724,12 @@ section {
     display: none;
 }
 .cookie-wrapper header i {
-    color: #feb900;
+    color: #00539cff;
     font-size: 32px;
     text-align: center;
 }
 .cookie-wrapper header h2 {
-    color: #feb900;
+    color: #00539cff;
     font-weight: 500;
     text-align: center;
 }
@@ -2737,7 +2737,7 @@ section {
     text-align: center;
 }
 .data p a {
-    color: #feb900;
+    color: #00539cff;
     text-decoration: none;
     text-align: center !important;
 }
@@ -2749,10 +2749,10 @@ section {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #feb900;
+    border: 2px solid #00539cff;
     color: #fff;
     padding: 8px 0;
-    background: #feb900;
+    background: #00539cff;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.2s ease;
@@ -2760,18 +2760,18 @@ section {
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #feb900;
+    color: #00539cff;
 }
 #declineBtn {
     background-color: #fff;
-    color: #feb900;
+    color: #00539cff;
 }
 #declineBtn:hover {
-    background-color: #feb900;
+    background-color: #00539cff;
     color: #fff;
 }
 #result {
-    color: #feb900;
+    color: #00539cff;
     font-size: 14px;
 }
 
