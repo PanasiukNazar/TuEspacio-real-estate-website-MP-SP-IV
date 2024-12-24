@@ -22,7 +22,7 @@
 /* Colors */
 :root {
     --color-default: #364d59;
-    --color-primary: #00539cff;
+    --color-primary: #00b1d2ff;
     --color-secondary: #52565e;
 }
 
@@ -2724,12 +2724,12 @@ section {
     display: none;
 }
 .cookie-wrapper header i {
-    color: #00539cff;
+    color: #00b1d2ff;
     font-size: 32px;
     text-align: center;
 }
 .cookie-wrapper header h2 {
-    color: #00539cff;
+    color: #00b1d2ff;
     font-weight: 500;
     text-align: center;
 }
@@ -2737,7 +2737,7 @@ section {
     text-align: center;
 }
 .data p a {
-    color: #00539cff;
+    color: #00b1d2ff;
     text-decoration: none;
     text-align: center !important;
 }
@@ -2749,10 +2749,10 @@ section {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #00539cff;
+    border: 2px solid #00b1d2ff;
     color: #fff;
     padding: 8px 0;
-    background: #00539cff;
+    background: #00b1d2ff;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.2s ease;
@@ -2760,18 +2760,18 @@ section {
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #00539cff;
+    color: #00b1d2ff;
 }
 #declineBtn {
     background-color: #fff;
-    color: #00539cff;
+    color: #00b1d2ff;
 }
 #declineBtn:hover {
-    background-color: #00539cff;
+    background-color: #00b1d2ff;
     color: #fff;
 }
 #result {
-    color: #00539cff;
+    color: #00b1d2ff;
     font-size: 14px;
 }
 
